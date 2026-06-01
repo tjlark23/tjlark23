@@ -9,10 +9,10 @@ I build AI-powered products: SaaS tools, local media brands, and automation syst
 ## Products I'm Selling
 
 ### [Lightbreak](https://lightbreak.ai)
-Local media infrastructure. Tools and systems for running modern local news brands: newsletters, directories, ad products, and the back-end to operate them.
+Newsletter publishing software for local media. Lightbreak cuts production time from 2-3 hours to 15 minutes per issue by pulling in content sources, formatting in your publication's voice, managing sponsorships, and exporting directly to Beehiiv, Mailchimp, Substack, or ConvertKit. Built for operators running one publication or twenty.
 
 ### [GreetForm](https://greetform.vercel.app)
-AI-powered intake forms that actually greet people. Smarter lead capture for service businesses.
+Conditional logic confirmation forms for newsletter operators. When someone subscribes, GreetForm intercepts the confirmation page with a smart survey and targeted local business offers, capturing first-party data and generating qualified leads in the first five minutes after signup, before the welcome email is even sent.
 
 ### [WilCo Guide](https://wilco-guide.vercel.app)
 An AI-first local media brand for Williamson County, TX. The template for how I think about hyperlocal content and directory businesses. In progress.
